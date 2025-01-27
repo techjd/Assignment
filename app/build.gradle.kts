@@ -70,4 +70,7 @@ dependencies {
     implementation (libs.retrofit)
     implementation (libs.retrofit.gson.convertor)
 
+//    implementation("androidx.datastore:datastore-preferences-core:1.1.2")
+    implementation("androidx.datastore:datastore-preferences:1.1.2")
+
 }
